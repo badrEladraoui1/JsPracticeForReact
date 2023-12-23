@@ -100,10 +100,14 @@ let random = {
   subob3: "3",
 };
 
-let { subob1: first , subob2: second } = random;
+let { subob1: first, subob2: second } = random;
 
-console.log("🚀 ~ file: firstDay.js:104 ~ first:", first)
-console.log("🚀 ~ file: firstDay.js:104 ~ second:", second)
+console.log("🚀 ~ file: firstDay.js:104 ~ first:", first);
+console.log("🚀 ~ file: firstDay.js:104 ~ second:", second);
+
+// array methods in js
+
+
 
 
 
